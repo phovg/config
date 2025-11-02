@@ -5,7 +5,9 @@
         ]
     },
     "jailed_users": {},
-    "forced_names": {},
+    "forced_names": {
+        "1383536282470453380": "femboy #426"
+    },
     "afk_users": {},
     "okok_enabled": true,
     "blacklisted_links": [],
