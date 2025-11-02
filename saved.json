@@ -2,7 +2,12 @@
     "stripped_roles": {},
     "jailed_users": {},
     "forced_names": {},
-    "afk_users": {},
+    "afk_users": {
+        "1389935654200414331": {
+            "reason": "No reason provided.",
+            "time": "2025-11-02T14:26:59.710785"
+        }
+    },
     "okok_enabled": false,
     "blacklisted_links": [
         "https://media.discordapp.net/attachments/1434367240429375612/1434367278543015946/4.jpg?ex=69081220&is=6906c0a0&hm=2243c1ead30777c4cf8bdc65f6c15a0b45e86adfaac5b5ddb9c7e9f72ac7d3e2&=&format=webp&width=986&height=1314",
