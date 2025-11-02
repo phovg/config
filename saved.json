@@ -6,7 +6,12 @@
     },
     "jailed_users": {},
     "forced_names": {},
-    "afk_users": {},
+    "afk_users": {
+        "1389935654200414331": {
+            "reason": "sleeppppppp",
+            "time": "2025-11-02T16:38:40.814475"
+        }
+    },
     "okok_enabled": true,
     "blacklisted_links": [],
     "scam_exts": []
