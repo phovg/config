@@ -1,5 +1,9 @@
 {
-    "stripped_roles": {},
+    "stripped_roles": {
+        "408785106942164992": [
+            "1430078921449275444"
+        ]
+    },
     "jailed_users": {},
     "forced_names": {},
     "afk_users": {},
@@ -31,6 +35,7 @@
     ],
     "hv_state": {},
     "snapped_users": [
+        408785106942164992,
         1408288420094279722
     ]
 }
