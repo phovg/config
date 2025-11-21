@@ -96,5 +96,18 @@
         ],
         "secret_agents": [],
         "welcome_channel": null
+    },
+    "1428961543089029182": {
+        "stripped_roles": {},
+        "jailed_users": {},
+        "forced_names": {},
+        "hv_state": {},
+        "snapped_users": [],
+        "blacklisted_links": [],
+        "whitelisted_users": [],
+        "secret_agents": [
+            1066714381087428688
+        ],
+        "welcome_channel": null
     }
 }
