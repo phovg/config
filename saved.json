@@ -98,13 +98,19 @@
         "welcome_channel": null
     },
     "1428961543089029182": {
-        "stripped_roles": {},
+        "stripped_roles": {
+            "1389935654200414331": [
+                "1441485661717659892"
+            ]
+        },
         "jailed_users": {},
         "forced_names": {},
         "hv_state": {},
         "snapped_users": [],
         "blacklisted_links": [],
-        "whitelisted_users": [],
+        "whitelisted_users": [
+            1411544315825618987
+        ],
         "secret_agents": [
             1066714381087428688
         ],
