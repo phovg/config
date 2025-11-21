@@ -103,7 +103,11 @@
                 "1441485661717659892"
             ]
         },
-        "jailed_users": {},
+        "jailed_users": {
+            "1172569870186053634": [
+                "1441485661717659892"
+            ]
+        },
         "forced_names": {},
         "hv_state": {},
         "snapped_users": [],
@@ -111,9 +115,7 @@
         "whitelisted_users": [
             1411544315825618987
         ],
-        "secret_agents": [
-            1066714381087428688
-        ],
+        "secret_agents": [],
         "welcome_channel": null
     }
 }
