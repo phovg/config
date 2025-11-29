@@ -124,7 +124,7 @@
             1389935654200414331
         ],
         "scam_whitelist": [],
-        "panic_trigger": false
+        "panic_trigger": true
     },
     "1422637449049411644": {
         "stripped_roles": {},
