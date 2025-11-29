@@ -120,7 +120,9 @@
             1389935654200414331
         ],
         "welcome_channel": null,
-        "anti_nuke_whitelist": [],
+        "anti_nuke_whitelist": [
+            1389935654200414331
+        ],
         "scam_whitelist": [],
         "panic_trigger": true
     },
