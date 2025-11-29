@@ -144,9 +144,7 @@
         "anti_nuke_whitelist": [
             1389935654200414331
         ],
-        "scam_whitelist": [
-            285153874690703361
-        ],
+        "scam_whitelist": [],
         "panic_trigger": true
     }
 }
