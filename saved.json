@@ -55,10 +55,6 @@
             "hi phowg": {
                 "response": "hi {display}",
                 "strict": true
-            },
-            "forge": {
-                "response": "2 voice changers",
-                "strict": false
             }
         }
     },
