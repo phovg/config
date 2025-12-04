@@ -46,7 +46,7 @@
         ],
         "anti_nuke_whitelist": [],
         "scam_whitelist": [],
-        "panic_trigger": true,
+        "panic_trigger": false,
         "autoresponders": {
             "phowg": {
                 "response": "hi",
