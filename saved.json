@@ -125,7 +125,9 @@
             1422048106404647002,
             1429170630351388732
         ],
-        "anti_nuke_whitelist": [],
+        "anti_nuke_whitelist": [
+            1422048106404647002
+        ],
         "scam_whitelist": [],
         "panic_trigger": false,
         "autoresponders": {}
