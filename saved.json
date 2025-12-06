@@ -64,6 +64,10 @@
             "hi phowg": {
                 "response": "hi {display}",
                 "strict": true
+            },
+            "stop": {
+                "response": "lets not stop alright?",
+                "strict": true
             }
         }
     },
