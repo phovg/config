@@ -109,12 +109,7 @@
         "autoresponders": {}
     },
     "1446923464010104985": {
-        "stripped_roles": {
-            "675738978497986571": [
-                "1446992627777015929",
-                "1446983476304941197"
-            ]
-        },
+        "stripped_roles": {},
         "jailed_users": {},
         "forced_names": {},
         "hv_state": {
@@ -126,7 +121,9 @@
             1422048106404647002,
             1429170630351388732
         ],
-        "secret_agents": [],
+        "secret_agents": [
+            1429170630351388732
+        ],
         "anti_nuke_whitelist": [],
         "scam_whitelist": [],
         "panic_trigger": false,
