@@ -112,10 +112,13 @@
         "stripped_roles": {},
         "jailed_users": {},
         "forced_names": {},
-        "hv_state": {},
+        "hv_state": {
+            "1389935654200414331": "1446988719889448992"
+        },
         "snapped_users": [],
         "blacklisted_links": [],
         "whitelisted_users": [
+            1422048106404647002,
             1429170630351388732
         ],
         "secret_agents": [],
