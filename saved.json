@@ -130,6 +130,11 @@
         ],
         "scam_whitelist": [],
         "panic_trigger": false,
-        "autoresponders": {}
+        "autoresponders": {
+            "nia": {
+                "response": "bleh bleh bleh",
+                "strict": false
+            }
+        }
     }
 }
