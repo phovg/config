@@ -126,15 +126,11 @@
             1429170630351388732
         ],
         "anti_nuke_whitelist": [
+            1169902318905466952,
             1422048106404647002
         ],
         "scam_whitelist": [],
         "panic_trigger": false,
-        "autoresponders": {
-            "nia": {
-                "response": "bleh bleh bleh",
-                "strict": false
-            }
-        }
+        "autoresponders": {}
     }
 }
