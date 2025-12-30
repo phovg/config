@@ -134,7 +134,9 @@
             1389935654200414331
         ],
         "blacklisted_links": [],
-        "whitelisted_users": [],
+        "whitelisted_users": [
+            757182100263796777
+        ],
         "secret_agents": [],
         "anti_nuke_whitelist": [],
         "scam_whitelist": [],
