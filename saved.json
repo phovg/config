@@ -134,13 +134,16 @@
             1389935654200414331
         ],
         "blacklisted_links": [],
-        "whitelisted_users": [
-            757182100263796777
-        ],
+        "whitelisted_users": [],
         "secret_agents": [],
         "anti_nuke_whitelist": [],
         "scam_whitelist": [],
         "panic_trigger": true,
-        "autoresponders": {}
+        "autoresponders": {
+            "hi phowg": {
+                "response": "hi {display}",
+                "strict": false
+            }
+        }
     }
 }
