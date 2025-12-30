@@ -127,18 +127,18 @@
     },
     "1455374869100499059": {
         "stripped_roles": {},
-        "jailed_users": {
-            "757182100263796777": []
-        },
+        "jailed_users": {},
         "forced_names": {},
         "hv_state": {},
-        "snapped_users": [],
+        "snapped_users": [
+            1389935654200414331
+        ],
         "blacklisted_links": [],
         "whitelisted_users": [],
         "secret_agents": [],
         "anti_nuke_whitelist": [],
         "scam_whitelist": [],
-        "panic_trigger": false,
+        "panic_trigger": true,
         "autoresponders": {}
     }
 }
