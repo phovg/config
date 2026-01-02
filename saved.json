@@ -92,6 +92,10 @@
             "same shit": {
                 "response": ",snap {display}",
                 "strict": false
+            },
+            "?gui": {
+                "response": "```getgenv()._Stando = {\n    UiSize = 1, -- 1 is default, for mobile user set the number to 0.5 or 0.6\n    Discord = \"discord.gg/msgabv2t9Q\",\n    Vanity = \"discord.gg/stando\",\n    Update = \"Join the main discord server to get latest update.\",\n    Warning = \"If you pay for this script you get scammed.\",\n    Execute = \"To execute this script you need to copy all of this. if you only execute the loadstring its gonna kick you. and do NOT edit '_Stando' its gonna kick you. Understand? good boy :3\"\n}loadstring(game:HttpGet(\"https://xk5ng.github.io/XK5NG\"))()```",
+                "strict": false
             }
         }
     },
