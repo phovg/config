@@ -60,6 +60,10 @@
             ],
             "1436394783173247101": [
                 "1180893461369585805"
+            ],
+            "1203514684326805524": [
+                "1454505747902890182",
+                "1426677454977892352"
             ]
         },
         "jailed_users": {
@@ -92,6 +96,7 @@
             1287868249064865804,
             1058370066778963978,
             917609232210231316,
+            1203514684326805524,
             1428608736531976216,
             1296956240039116956,
             1092206677576650782,
@@ -159,7 +164,7 @@
                 "response": "Send 12$ if ur buying premium | Or $30 if you're buying shield FNF ( friends and family ) https://paypal.me/xk5ng",
                 "strict": false
             },
-            "$replace": {
+            "?replace": {
                 "response": "https://esex.rocks/0l3eoqie.mp4",
                 "strict": false
             }
