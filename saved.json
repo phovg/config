@@ -1,11 +1,10 @@
 {
     "1180889664761122836": {
         "stripped_roles": {
-            "1290148216670650405": [
-                "1180893461369585805"
-            ],
-            "1168139782514290702": [
-                "1180893461369585805"
+            "704802632660943089": [
+                "1180893461369585805",
+                "1420887603414040658",
+                "1426677454977892352"
             ]
         },
         "jailed_users": {
@@ -39,11 +38,11 @@
             917609232210231316,
             1428608736531976216,
             1296956240039116956,
-            1253616054677012510,
+            1092206677576650782,
             1310049472725651486,
             1160840256384421920,
             1300330298914897953,
-            1092206677576650782,
+            1253616054677012510,
             1125379742191849503,
             1216363308668551208,
             1063415646483910697,
@@ -63,6 +62,7 @@
             1380616398996504677,
             1396237191033782378,
             1424839451376484463,
+            704802632660943089,
             1411685867659202680
         ],
         "blacklisted_links": [],
@@ -150,6 +150,34 @@
         "autoresponders": {}
     },
     "1440528042114941029": {
+        "stripped_roles": {},
+        "jailed_users": {},
+        "forced_names": {},
+        "hv_state": {},
+        "snapped_users": [],
+        "blacklisted_links": [],
+        "whitelisted_users": [],
+        "secret_agents": [],
+        "anti_nuke_whitelist": [],
+        "scam_whitelist": [],
+        "panic_trigger": false,
+        "autoresponders": {}
+    },
+    "1432576008292143127": {
+        "stripped_roles": {},
+        "jailed_users": {},
+        "forced_names": {},
+        "hv_state": {},
+        "snapped_users": [],
+        "blacklisted_links": [],
+        "whitelisted_users": [],
+        "secret_agents": [],
+        "anti_nuke_whitelist": [],
+        "scam_whitelist": [],
+        "panic_trigger": false,
+        "autoresponders": {}
+    },
+    "1398348297063759953": {
         "stripped_roles": {},
         "jailed_users": {},
         "forced_names": {},
