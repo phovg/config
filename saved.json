@@ -155,5 +155,30 @@
         "scam_whitelist": [],
         "panic_trigger": false,
         "autoresponders": {}
+    },
+    "1472088489104249005": {
+        "stripped_roles": {
+            "1383536282470453380": [
+                "1472088806713856153"
+            ],
+            "1472066175499370678": [
+                "1472088921960747040"
+            ]
+        },
+        "jailed_users": {},
+        "forced_names": {},
+        "hv_state": {},
+        "snapped_users": [
+            1389935654200414331,
+            1383536282470453380,
+            1472066175499370678
+        ],
+        "blacklisted_links": [],
+        "whitelisted_users": [],
+        "secret_agents": [],
+        "anti_nuke_whitelist": [],
+        "scam_whitelist": [],
+        "panic_trigger": false,
+        "autoresponders": {}
     }
 }
