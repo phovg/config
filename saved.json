@@ -108,6 +108,10 @@
             "volt": {
                 "response": "The Future of Roblox Exploiting",
                 "strict": true
+            },
+            "?how": {
+                "response": "# Basically, We whitelist your Roblox User ID when you buy premium or bypass\n## it does **NOT** get removed when you change your username on Roblox since we user User Ids and you do **NOT** need to be injected to use premium or shield bypass.\n### You might also ask how to use commands or select target(s) If so, Check out <#1390666438456639568>",
+                "strict": false
             }
         }
     },
